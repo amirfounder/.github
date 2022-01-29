@@ -10,15 +10,36 @@ Due to the absence of a directory structure on github, I have created several gi
 
 | Organization | Link | Description / Purpose
 |- |- |-    
-| amirfounder | https://github.com/amirfounder | Projects that demonstrate knowledge and skills in different domains
+| amirfounder | https://github.com/amirfounder (YOU ARE HERE) | Projects that demonstrate my knowledge and skills in different domains
 | amirfounder-automation | https://github.com/amirfounder-automation | A specific subset of amirfounder with a focus on automating repetivie tasks
 | amirfounder-workshop | https://github.com/amirfounder-workshop | Projects and apps that I use to improve my own work efficiency
 | amirfounder-archive | https://gihub.com/amirfounder-archive | Old projects that provide little value other than to demonstrate my journey so far!
 
 ---
 
-## Organization: amirfounder
+# Organization: `amirfounder`
 
-Purpose: Projects that demonstrate knowledge and skills in certain areas.
+Purpose: Projects that demonstrate my knowledge and skills in different domains. The size and complexities of these projects vary widely. They can be large and integrated with complex components, or simple scripts that have assisted me one time.
 
-## Organization: 
+---
+
+### **Project:** Amir Apparel Demo UI(s) / API(s)
+
+*ReactJS, Postgres, C# ASP.NET, Entity Framework, Python (coming soon!)*
+
+Implementing the client-server pattern, these repositories were built for me to upskill on specific langauges and stacks. This was done whilst implementing features such as filtering, pagination, validation and more.
+
+---
+
+### **Project:** Amir Founder Component Library
+*ReactJS, Storybook*
+
+This React component library was created as soon as I learned enough react to get my hands dirty. While many of these components have yet to be refactored to the extent seen in the Amir Apparel Demo UI frontend, it has been published to NPMJS (https://npmjs.com/package/amirfounder-ui) with a comprehensive version history documented.
+
+## Organization: `amirfounder-automation`
+
+Projects:
+
+---
+
+*Last Updated: 1/29/22*
