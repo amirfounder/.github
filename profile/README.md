@@ -1,8 +1,24 @@
 # Welcome!
 
-Welcome to the amirfounder organization!
+Welcome to the amirfounder organization! This organization's primary purpose is to house projects that demonstrate my knowledge and skills in different domains.
 
-There are several projects that I have under construction. This readme should organize those.
+This README will go over the outline of these projects and what I have in the works
 
+# Organizations
 
-...to be continued.
+Due to the absence of a directory structure on github, I have created several github organizations to house different projects that I work on. They are as follows:
+
+| Organization | Link | Description / Purpose
+|- |- |-    
+| amirfounder | https://github.com/amirfounder | Projects that demonstrate knowledge and skills in different domains
+| amirfounder-automation | https://github.com/amirfounder-automation | A specific subset of amirfounder with a focus on automating repetivie tasks
+| amirfounder-workshop | https://github.com/amirfounder-workshop | Projects and apps that I use to improve my own work efficiency
+| amirfounder-archive | https://gihub.com/amirfounder-archive | Old projects that provide little value other than to demonstrate my journey so far!
+
+---
+
+## Organization: amirfounder
+
+Purpose: Projects that demonstrate knowledge and skills in certain areas.
+
+## Organization: 
