@@ -17,33 +17,4 @@ Due to the absence of a directory structure on github, I have created several gi
 
 ---
 
-# `amirfounder`
-
-Purpose: Projects that demonstrate my knowledge and skills in different domains. The size and complexities of these projects vary widely. They can be large and integrated with complex components, or simple scripts that have assisted me one time.
-
----
-
-### **Project:** Amir Apparel Demo UI(s) / API(s)
-
-*ReactJS, Postgres, C# ASP.NET, Entity Framework, Python (coming soon!)*
-
-Implementing the client-server pattern, these repositories were built for me to upskill on specific langauges and stacks. This was done whilst implementing features such as filtering, pagination, validation and more.
-
-*Links coming soon...*
-
----
-
-### **Project:** Amir Founder Component Library
-*ReactJS, Storybook*
-
-This React component library was created as soon as I learned enough react to get my hands dirty. While many of these components have yet to be refactored to the extent seen in the Amir Apparel Demo UI frontend, it has been published to NPMJS (https://npmjs.com/package/amirfounder-ui) with a comprehensive version history documented.
-
-*Links coming soon...*
-
-# `amirfounder-automation`
-
-*More coming soon...*
-
----
-
 *Last Updated: 1/29/22*
