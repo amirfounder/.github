@@ -1,19 +1,30 @@
 Welcome to the amirfounder organization! This organization's primary purpose is to house projects that demonstrate my knowledge and skills in different domains.
 
-| :exclamation: | Important!: Stuff! |
-|---------------|:-------------------|
-
 Due to the absence of a directory structure on github, I have created several github organizations to house different projects that I work on.
 
-| Organization | Link | Description / Purpose
-|- |- |-    
-| amirfounder | https://github.com/amirfounder | Root node
-| amirfounder-archive | https://github.com/amirfounder-archive | Legacy projects stored in case I need to re-use previous written code
-| amirfounder-automation | https://github.com/amirfounder-automation | Projects that focus on automating repetetive tasks so I can spend more time coding
-| amirfounder-demos | https://github.com/amirfounder-demos | Projects to reinforce newly gained knowledge within STEM domain subjects.
-| amirfounder-edu | https://github.com/amirfounder-edu | Projects to reinforce newly gained knowledge within STEM domain subjects.
-| amirfounder-workshop | https://github.com/amirfounder-workshop | Projects, scripts, and apps to improve work efficiency
+Projects (Links coming soon...):
+
+- Demos
+  - [Amir Apparel Demo API .NET]()
+  - [Amir Apparel Demo API Flask]()
+  - [Amir Apparel Demo API Spring Boot]()
+  - [Amir Apparel Demo UI React]()
+- Educational / Science
+  - [Math Problems API]()
+  - [Periodic Table of Elements]()
+- Archive
+  - [Project Directory Builder]()
+- Automation
+  - [Instagram Bot (ALPHA)]()
+  - [Lotro Bot v1]()
+  - [Lotro Bot v2]()
+  - [Lotro Bot v3]()
+- Workshop
+  - [Project Manager]()
+  - [React Components]()
+  - [Scripts]()
+  - [Voice Assistant]()
 
 ---
 
-*Last Updated: 02/02/2022*
+*Last Updated: 02/03/2022*
