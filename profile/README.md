@@ -1,5 +1,3 @@
-# Welcome!
-
 Welcome to the amirfounder organization! This organization's primary purpose is to house projects that demonstrate my knowledge and skills in different domains.
 
 This README will go over the outline of these projects and what I have in the works
