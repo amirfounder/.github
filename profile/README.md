@@ -8,11 +8,12 @@ Due to the absence of a directory structure on github, I have created several gi
 
 | Organization | Link | Description / Purpose
 |- |- |-    
-| amirfounder | https://github.com/amirfounder (YOU ARE HERE) | Projects that demonstrate my knowledge and skills in different domains
-| amirfounder-automation | https://github.com/amirfounder-automation | A specific subset of amirfounder with a focus on automating repetivie tasks
-| amirfounder-workshop | https://github.com/amirfounder-workshop | Projects and apps that I use to improve my own work efficiency
-| amirfounder-archive | https://github.com/amirfounder-archive | Old projects that provide little value other than to remind me of my journey so far!
-| amirfounder-science | https://github.com/amirfounder-science | Projects to reinforce newly gained knowledge within STEM domain subjects.
+| amirfounder | https://github.com/amirfounder | Root node
+| amirfounder-archive | https://github.com/amirfounder-archive | Legacy projects stored in case I need to re-use previous written code
+| amirfounder-automation | https://github.com/amirfounder-automation | Projects that focus on automating repetetive tasks so I can spend more time coding
+| amirfounder-demos | https://github.com/amirfounder-demos | Projects to reinforce newly gained knowledge within STEM domain subjects.
+| amirfounder-edu | https://github.com/amirfounder-edu | Projects to reinforce newly gained knowledge within STEM domain subjects.
+| amirfounder-workshop | https://github.com/amirfounder-workshop | Projects, scripts, and apps to improve work efficiency
 
 ---
 
