@@ -1,10 +1,6 @@
 Welcome to the amirfounder organization! This organization's primary purpose is to house projects that demonstrate my knowledge and skills in different domains.
 
-This README will go over the outline of these projects and what I have in the works
-
-# Organizations
-
-Due to the absence of a directory structure on github, I have created several github organizations to house different projects that I work on. They are as follows:
+Due to the absence of a directory structure on github, I have created several github organizations to house different projects that I work on.
 
 | Organization | Link | Description / Purpose
 |- |- |-    
@@ -17,4 +13,4 @@ Due to the absence of a directory structure on github, I have created several gi
 
 ---
 
-*Last Updated: 1/29/2022*
+*Last Updated: 02/02/2022*
