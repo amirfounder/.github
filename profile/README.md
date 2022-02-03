@@ -12,6 +12,7 @@ Due to the absence of a directory structure on github, I have created several gi
 | amirfounder-automation | https://github.com/amirfounder-automation | A specific subset of amirfounder with a focus on automating repetivie tasks
 | amirfounder-workshop | https://github.com/amirfounder-workshop | Projects and apps that I use to improve my own work efficiency
 | amirfounder-archive | https://github.com/amirfounder-archive | Old projects that provide little value other than to remind me of my journey so far!
+| amirfounder-science | https://github.com/amirfounder-science | Projects to reinforce newly gained knowledge within STEM domain subjects.
 
 ---
 
