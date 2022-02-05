@@ -37,12 +37,8 @@ Due to the absence of a directory structure on github, below is a project tree t
     [v2](https://github.com/amirfounder/lotro-bot-v2) |
     [v3](https://github.com/amirfounder/lotro-bot-v3)
     )
-  - Project Directory Builder (
-    [v1](https://github.com/amirfounder/project-directory-builder)
-    )
-  - Youtube Audio Builder (
-    [v1](https://github.com/amirfounder/youtube-audio-builder)
-    )
+  - [Project Directory Builder](https://github.com/amirfounder/project-directory-builder)
+  - [Youtube Audio Builder](https://github.com/amirfounder/youtube-audio-builder)
 - Automation
   - [Instagram Bot v2](https://github.com/amirfounder/instagram-bot-v2)
   - [Lotro Bot v4](https://github.com/amirfounder/lotro-bot-v4)
