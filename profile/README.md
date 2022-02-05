@@ -16,7 +16,8 @@ Due to the absence of a directory structure on github, below is a project tree t
   - [Periodic Table of Elements](https://github.com/amirfounder/periodic-table-of-elements)
 - Archive
   - Activity Logger (
-    [v1](https://github.com/amirfounder/activity-logger-v1)
+    [v1](https://github.com/amirfounder/activity-logger-v1) |
+    [v2](https://github.com/amirfounder/activity-logger-v2)
     )
   - amirfounder UI (
     [v1](https://github.com/amirfounder/amirfounder-ui-v1) |
@@ -28,9 +29,6 @@ Due to the absence of a directory structure on github, below is a project tree t
     )
   - Instagram Username Builder (
     [v1](https://github.com/amirfounder/instagram-username-builder-v1)
-    )
-  - Interaction Logger (
-    [v1](https://github.com/amirfounder/interaction-logger-v1)
     )
   - Lotro Bot (
     [v1](https://github.com/amirfounder/lotro-bot-v1) |
