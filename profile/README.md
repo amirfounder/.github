@@ -1,29 +1,43 @@
-Welcome to the amirfounder organization! This organization's primary purpose is to house projects that demonstrate my knowledge and skills in different domains.
+# amirfounder
 
-Due to the absence of a directory structure on github, I have created several github organizations to house different projects that I work on.
+Welcome to the amirfounder organization! This organization's primary purpose is to house projects that demonstrate my knowledge and skills across different domains, lanugages, and frameworks.
 
-Projects (Links coming soon...):
+Due to the absence of a directory structure on github, below is a project tree that links to several projects I have been working on.
+
+# Projects Tree:
 
 - Demos
-  - [Amir Apparel Demo API .NET]()
-  - [Amir Apparel Demo API Flask]()
-  - [Amir Apparel Demo API Spring Boot]()
-  - [Amir Apparel Demo UI React]()
+  - [Amir Apparel Demo API .NET](https://github.com/amirfounder/amir-apparel-demo-api-dotnet)
+  - [Amir Apparel Demo API Flask](https://github.com/amirfounder/amir-apparel-demo-api-flask)
+  - [Amir Apparel Demo API Spring Boot](https://github.com/amirfounder/amir-apparel-demo-api-spring-boot)
+  - [Amir Apparel Demo UI React](https://github.com/amirfounder/amir-apparel-demo-ui-react)
 - Educational / Science
-  - [Math Problems API]()
-  - [Periodic Table of Elements]()
+  - [Math Problems API](https://github.com/amirfounder/math-problems-api)
+  - [Periodic Table of Elements](https://github.com/amirfounder/periodic-table-of-elements)
 - Archive
-  - [Project Directory Builder]()
+  - [Activity Logger v1](https://github.com/amirfounder/activity-logger-v1)
+  - [amirfounder UI v1](https://github.com/amirfounder/amirfounder-ui-v1)
+  - [amirfounder UI v2](https://github.com/amirfounder/amirfounder-ui-v2)
+  - [amirfounder UI v3](https://github.com/amirfounder/amirfounder-ui-v3)
+  - [Instagram Bot v1](https://github.com/amirfounder/instagram-bot-v1)
+  - [Instagram Username Builder](https://github.com/amirfounder/instagram-username-builder-v1)
+  - [Interaction Logger v1](https://github.com/amirfounder/interaction-logger-v1)
+  - [Lotro Bot v1](https://github.com/amirfounder/lotro-bot-v1)
+  - [Lotro Bot v2](https://github.com/amirfounder/lotro-bot-v2)
+  - [Lotro Bot v3](https://github.com/amirfounder/lotro-bot-v3)
+  - [Project Directory Builder](https://github.com/amirfounder/project-directory-builder)
+  - [Youtube Audio Builder](https://github.com/amirfounder/youtube-audio-builder)
 - Automation
-  - [Instagram Bot (ALPHA)]()
-  - [Lotro Bot v1]()
-  - [Lotro Bot v2]()
-  - [Lotro Bot v3]()
+  - [Instagram Bot v2](https://github.com/amirfounder/instagram-bot-v2)
+  - [Lotro Bot v4](https://github.com/amirfounder/lotro-bot-v4)
 - Workshop
-  - [Project Manager]()
-  - [React Components]()
-  - [Scripts]()
-  - [Voice Assistant]()
+  - [Project Manager UI](https://github.com/amirfounder/project-manager-ui)
+  - [Project Manager API](https://github.com/amirfounder/project-manager-ui)
+  - [React Components](https://github.com/amirfounder/react-components)
+  - [Scripts](https://github.com/amirfounder/scripts)
+  - [Voice Assistant](https://github.com/amirfounder/voice-assistant)
+- Sites
+  - [amirfounder UI v4](https://github.com/amirfounder/amirfounder-ui-v4)
 
 ---
 
