@@ -15,18 +15,34 @@ Due to the absence of a directory structure on github, below is a project tree t
   - [Math Problems API](https://github.com/amirfounder/math-problems-api)
   - [Periodic Table of Elements](https://github.com/amirfounder/periodic-table-of-elements)
 - Archive
-  - [Activity Logger v1](https://github.com/amirfounder/activity-logger-v1)
-  - [amirfounder UI v1](https://github.com/amirfounder/amirfounder-ui-v1)
-  - [amirfounder UI v2](https://github.com/amirfounder/amirfounder-ui-v2)
-  - [amirfounder UI v3](https://github.com/amirfounder/amirfounder-ui-v3)
-  - [Instagram Bot v1](https://github.com/amirfounder/instagram-bot-v1)
-  - [Instagram Username Builder](https://github.com/amirfounder/instagram-username-builder-v1)
-  - [Interaction Logger v1](https://github.com/amirfounder/interaction-logger-v1)
-  - [Lotro Bot v1](https://github.com/amirfounder/lotro-bot-v1)
-  - [Lotro Bot v2](https://github.com/amirfounder/lotro-bot-v2)
-  - [Lotro Bot v3](https://github.com/amirfounder/lotro-bot-v3)
-  - [Project Directory Builder](https://github.com/amirfounder/project-directory-builder)
-  - [Youtube Audio Builder](https://github.com/amirfounder/youtube-audio-builder)
+  - Activity Logger (
+    [v1](https://github.com/amirfounder/activity-logger-v1)
+    )
+  - amirfounder UI (
+    [v1](https://github.com/amirfounder/amirfounder-ui-v1) |
+    [v2](https://github.com/amirfounder/amirfounder-ui-v2) |
+    [v3](https://github.com/amirfounder/amirfounder-ui-v3)
+    )
+  - Instagram Bot (
+    [v1](https://github.com/amirfounder/instagram-bot-v1)
+    )
+  - Instagram Username Builder (
+    [v1](https://github.com/amirfounder/instagram-username-builder-v1)
+    )
+  - Interaction Logger (
+    [v1](https://github.com/amirfounder/interaction-logger-v1)
+    )
+  - Lotro Bot (
+    [v1](https://github.com/amirfounder/lotro-bot-v1) |
+    [v2](https://github.com/amirfounder/lotro-bot-v2) |
+    [v3](https://github.com/amirfounder/lotro-bot-v3)
+    )
+  - Project Directory Builder (
+    [v1](https://github.com/amirfounder/project-directory-builder)
+    )
+  - Youtube Audio Builder (
+    [v1](https://github.com/amirfounder/youtube-audio-builder)
+    )
 - Automation
   - [Instagram Bot v2](https://github.com/amirfounder/instagram-bot-v2)
   - [Lotro Bot v4](https://github.com/amirfounder/lotro-bot-v4)
@@ -36,8 +52,9 @@ Due to the absence of a directory structure on github, below is a project tree t
   - [React Components](https://github.com/amirfounder/react-components)
   - [Scripts](https://github.com/amirfounder/scripts)
   - [Voice Assistant](https://github.com/amirfounder/voice-assistant)
-- Sites
+- Sites / Other
   - [amirfounder UI v4](https://github.com/amirfounder/amirfounder-ui-v4)
+  - [.github](https://github.com/amirfounder/.github)
 
 ---
 
