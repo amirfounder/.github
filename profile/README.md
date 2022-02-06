@@ -42,7 +42,7 @@ Due to the absence of a directory structure on github, below is a project tree t
   - [Lotro Bot v4](https://github.com/amirfounder/lotro-bot-v4)
 - Workshop
   - [Project Manager UI](https://github.com/amirfounder/project-manager-ui)
-  - [Project Manager API](https://github.com/amirfounder/project-manager-ui)
+  - [Project Manager API](https://github.com/amirfounder/project-manager-api)
   - [React Components](https://github.com/amirfounder/react-components)
   - [Scripts](https://github.com/amirfounder/scripts)
   - [Voice Assistant](https://github.com/amirfounder/voice-assistant)
