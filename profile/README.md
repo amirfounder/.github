@@ -4,8 +4,8 @@ Amir Sharapov (@amirfounder) references to resources and repositories for recrui
 
 ## Contents
 
-- [Resume](#resume)
 - [Projects Tree](#projects-tree)
+- [Technology Index](#technology-index)
 
 ## Projects Tree:
 
@@ -48,7 +48,7 @@ Amir Sharapov (@amirfounder) references to resources and repositories for recrui
   - [amirfounder UI v4](https://github.com/amirfounder/amirfounder-ui-v4)
   - [.github](https://github.com/amirfounder/.github)
 
-## Resume
+## Technology Index
 
 - **Languages**
   - C#
@@ -59,7 +59,7 @@ Amir Sharapov (@amirfounder) references to resources and repositories for recrui
   - Python
   - PostgreSQL
 
-- **Frameworks**
+- **Frameworks / Platforms**
   - ASP.NET
   - Entity Framework
   - Flask
