@@ -4,8 +4,8 @@ Amir Sharapov (@amirfounder) references to resources and repositories for recrui
 
 ## Contents
 
-- Resume
-- Projects Tree
+- [Resume](#resume)
+- [Projects Tree](#projects-tree)
 
 ## Projects Tree:
 
