@@ -24,14 +24,15 @@ Amir Sharapov (@amirfounder) references to resources and repositories for recrui
   - amirfounder UI (
     [v1](https://github.com/amirfounder/amirfounder-ui-v1) |
     [v2](https://github.com/amirfounder/amirfounder-ui-v2) |
-    [v3](https://github.com/amirfounder/amirfounder-ui-v3)
+    [v3](https://github.com/amirfounder/amirfounder-ui-v3) |
+    [v4](https://github.com/amirfounder/amirfounder-ui-v4)
     )
   - Instagram Bot (
     [v1](https://github.com/amirfounder/instagram-bot-v1) |
     [v2](https://github.com/amirfounder/instagram-bot-v2)
     )
   - Instagram Username Builder (
-    [v1](https://github.com/amirfounder/instagram-username-builder-v1) |
+    [v1](https://github.com/amirfounder/instagram-username-builder-v1)
     )
   - Lotro Bot (
     [v1](https://github.com/amirfounder/lotro-bot-v1) |
@@ -45,7 +46,6 @@ Amir Sharapov (@amirfounder) references to resources and repositories for recrui
   - [React Components](https://github.com/amirfounder/react-components)
   - [Youtube Audio Builder](https://github.com/amirfounder/youtube-audio-builder)
 - Other
-  - [amirfounder UI v4](https://github.com/amirfounder/amirfounder-ui-v4)
   - [.github](https://github.com/amirfounder/.github)
 
 ## Technology Index
@@ -61,8 +61,10 @@ Amir Sharapov (@amirfounder) references to resources and repositories for recrui
 
 - **Frameworks / Platforms**
   - ASP.NET
+  - AWS
   - Entity Framework
   - Flask
+  - Git
   - Hibernate
   - OpenCV
   - React
