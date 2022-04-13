@@ -17,7 +17,7 @@ Amir Sharapov (@amirfounder) references to resources and repositories for recrui
 - Education
   - [Math Problems API](https://github.com/amirfounder/math-problems-api)
 - Public Standalone Libraries
-  - [Dependency Inversion](https://github.com/amirfounder/dependency-inversion)
+  - [Dependency Injection](https://github.com/amirfounder/dependency-injection)
   - [Flask Repository](https://github.com/amirfounder/flask-repository)
 - Archived
   - Activity Logger (
