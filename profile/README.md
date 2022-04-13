@@ -14,8 +14,6 @@ Amir Sharapov (@amirfounder) references to resources and repositories for recrui
   - [Amir Apparel Demo API Flask](https://github.com/amirfounder/amir-apparel-demo-api-flask)
   - [Amir Apparel Demo API Spring Boot](https://github.com/amirfounder/amir-apparel-demo-api-spring-boot)
   - [Amir Apparel Demo UI React](https://github.com/amirfounder/amir-apparel-demo-ui-react)
-- Education
-  - [Math Problems API](https://github.com/amirfounder/math-problems-api)
 - Common Helpers
   - [@amirfounder Commons](https://github.com/amirfounder/ai-commons)
   - [@amirfounder Dependency Injection](https://github.com/amirfounder/dependency-injection)
@@ -44,6 +42,7 @@ Amir Sharapov (@amirfounder) references to resources and repositories for recrui
     [v3](https://github.com/amirfounder/lotro-bot-v3) |
     [v4](https://github.com/amirfounder/lotro-bot-v4)
     )
+  - [Math Problems API](https://github.com/amirfounder/math-problems-api)
   - [Project Directory Builder](https://github.com/amirfounder/project-directory-builder)
   - [Project Manager UI](https://github.com/amirfounder/project-manager-ui)
   - [Project Manager API](https://github.com/amirfounder/project-manager-api)
