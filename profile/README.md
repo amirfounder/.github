@@ -16,9 +16,10 @@ Amir Sharapov (@amirfounder) references to resources and repositories for recrui
   - [Amir Apparel Demo UI React](https://github.com/amirfounder/amir-apparel-demo-ui-react)
 - Education
   - [Math Problems API](https://github.com/amirfounder/math-problems-api)
-- Public Standalone Libraries
-  - [Dependency Injection](https://github.com/amirfounder/dependency-injection)
-  - [Flask Repository](https://github.com/amirfounder/flask-repository)
+- Common Helpers
+  - [@amirfounder Commons](https://github.com/amirfounder/ai-commons)
+  - [@amirfounder Dependency Injection](https://github.com/amirfounder/dependency-injection)
+  - [@amirfounder PGSQL Repository](https://github.com/amirfounder/pgsql-repository)
 - Archived
   - Activity Logger (
     [v1](https://github.com/amirfounder/activity-logger-v1) |
