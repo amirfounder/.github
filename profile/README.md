@@ -79,3 +79,4 @@ Amir Sharapov (@amirfounder) references to resources and repositories for recrui
   - DRY Code
   - Design Patterns
   - SOLID Principles
+  - IoC / Dependency Injection
