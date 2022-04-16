@@ -1,6 +1,6 @@
 # Amir Sharapov
 
-Amir Sharapov (@amirfounder) references to resources and repositories for recruiters.
+Amir Sharapov (@amirfounder) references to resources and repositories for recruiters. Current Full-Stack Software Engineer. Aspiring AI / ML Engineer.
 
 ## Contents
 
@@ -9,7 +9,7 @@ Amir Sharapov (@amirfounder) references to resources and repositories for recrui
 
 ## Projects Tree:
 
-- #### Demos
+- #### Full-Stack Demos
   - [Amir Apparel Demo API .NET](https://github.com/amirfounder/amir-apparel-demo-api-dotnet)
   - [Amir Apparel Demo API Flask](https://github.com/amirfounder/amir-apparel-demo-api-flask)
   - [Amir Apparel Demo API Spring Boot](https://github.com/amirfounder/amir-apparel-demo-api-spring-boot)
