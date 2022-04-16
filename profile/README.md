@@ -5,14 +5,7 @@ Amir Sharapov (@amirfounder) references to resources and repositories for recrui
 ## Contents
 
 - [Projects Tree](#projects-tree)
-  - [Demos](#demos)
-  - [Internal Libraries](#internal-libraries)
-  - [Archived](#archived)
-  - [Other](#other)
 - [Technology Index](#technology-index)
-  - [Languages](#languages)
-  - [Frameworks / Libraries](#frameworks--platforms)
-  - [CS Concepts](#cs-concepts)
 
 ## Projects Tree:
 
