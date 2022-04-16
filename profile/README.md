@@ -1,6 +1,6 @@
 # Amir Sharapov
 
-Amir Sharapov (@amirfounder) references to resources and repositories for recruiters. Current Full-Stack Software Engineer. Aspiring AI / ML Engineer.
+Amir Sharapov (@amirfounder) organization references an ongoing index of projects for recruiters.
 
 ## Contents
 
