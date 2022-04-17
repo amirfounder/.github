@@ -12,17 +12,17 @@ Amir Sharapov (@amirfounder) organization references an ongoing index of project
 - #### Artificial Intelligence / Machine Learning
   - [Better Requests Chrome Extension](https://github.com/amirfounder/better-reqests-chrome-extension)
   - [Better Requests HTTP Server](https://github.com/amirfounder/better-requests-http-server)
+  - [Machine Learning Service](https://github.com/amirfounder/machine-learning-service)
+  - [Data Processing Service](https://github.com/amirfounder/data-processing-service)
+  - [@amirfounder Commons](https://github.com/amirfounder/commons)
+  - [@amirfounder DAOs](https://github.com/amirfounder/daos)
+  - [@amirfounder Dependency Injection](https://github.com/amirfounder/dependency-injection)
 
 - #### Full-Stack Demos
   - [Amir Apparel Demo API .NET](https://github.com/amirfounder/amir-apparel-demo-api-dotnet)
   - [Amir Apparel Demo API Flask](https://github.com/amirfounder/amir-apparel-demo-api-flask)
   - [Amir Apparel Demo API Spring Boot](https://github.com/amirfounder/amir-apparel-demo-api-spring-boot)
   - [Amir Apparel Demo UI React](https://github.com/amirfounder/amir-apparel-demo-ui-react)
-
-- #### Internal Libraries
-  - [@amirfounder Commons](https://github.com/amirfounder/ai-commons)
-  - [@amirfounder Dependency Injection](https://github.com/amirfounder/dependency-injection)
-  - [@amirfounder PGSQL Repository](https://github.com/amirfounder/pgsql-repository)
 
 - #### Archived
   - Activity Logger (
