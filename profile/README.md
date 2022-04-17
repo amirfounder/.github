@@ -10,7 +10,7 @@ Amir Sharapov (@amirfounder) organization references an ongoing index of project
 ## Projects Tree:
 
 - #### Artificial Intelligence / Machine Learning
-  - [Better Requests Chrome Extension](https://github.com/amirfounder/better-reqests-chrome-extension)
+  - [Better Requests Chrome Extension](https://github.com/amirfounder/better-requests-chrome-extension)
   - [Better Requests HTTP Server](https://github.com/amirfounder/better-requests-http-server)
   - [Data Processing Services](https://github.com/amirfounder/data-processing-services)
   - [Machine Learning Services](https://github.com/amirfounder/machine-learning-services)
