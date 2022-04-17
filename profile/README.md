@@ -9,15 +9,21 @@ Amir Sharapov (@amirfounder) organization references an ongoing index of project
 
 ## Projects Tree:
 
+- #### Artificial Intelligence / Machine Learning
+  - [Better Requests Chrome Extension](https://github.com/amirfounder/better-reqests-chrome-extension)
+  - [Better Requests HTTP Server](https://github.com/amirfounder/better-requests-http-server)
+
 - #### Full-Stack Demos
   - [Amir Apparel Demo API .NET](https://github.com/amirfounder/amir-apparel-demo-api-dotnet)
   - [Amir Apparel Demo API Flask](https://github.com/amirfounder/amir-apparel-demo-api-flask)
   - [Amir Apparel Demo API Spring Boot](https://github.com/amirfounder/amir-apparel-demo-api-spring-boot)
   - [Amir Apparel Demo UI React](https://github.com/amirfounder/amir-apparel-demo-ui-react)
+
 - #### Internal Libraries
   - [@amirfounder Commons](https://github.com/amirfounder/ai-commons)
   - [@amirfounder Dependency Injection](https://github.com/amirfounder/dependency-injection)
   - [@amirfounder PGSQL Repository](https://github.com/amirfounder/pgsql-repository)
+
 - #### Archived
   - Activity Logger (
     [v1](https://github.com/amirfounder/activity-logger-v1) |
@@ -48,6 +54,7 @@ Amir Sharapov (@amirfounder) organization references an ongoing index of project
   - [Project Manager API](https://github.com/amirfounder/project-manager-api)
   - [React Components](https://github.com/amirfounder/react-components)
   - [Youtube Audio Builder](https://github.com/amirfounder/youtube-audio-builder)
+
 - #### Other
   - [.github](https://github.com/amirfounder/.github)
 
