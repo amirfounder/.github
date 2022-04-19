@@ -10,11 +10,12 @@ Amir Sharapov (@amirfounder) organization references an ongoing index of project
 ## Projects Tree:
 
 - #### AI / ML Ops
+  - [(Library) Base HTTP Server](https://github.com/amirfounder/http-server)
+  - [(Library) DAOs](https://github.com/amirfounder/daos)
+  - [(Library) Dependency Injection](https://github.com/amirfounder/dependency-injection)
   - [Better Requests Chrome Extension](https://github.com/amirfounder/better-requests-chrome-extension)
   - [Better Requests HTTP Server](https://github.com/amirfounder/better-requests-http-server)
   - [Data Processing Services](https://github.com/amirfounder/data-processing-services)
-  - [DAOs](https://github.com/amirfounder/daos)
-  - [Dependency Injection](https://github.com/amirfounder/dependency-injection)
   - [Machine Learning Training Services](https://github.com/amirfounder/machine-learning-training-services)
   - [Machine Learning Prediction Services](https://github.com/amirfounder/machine-learning-prediction-services)
 
