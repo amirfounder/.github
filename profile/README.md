@@ -9,17 +9,16 @@ Amir Sharapov (@amirfounder) organization references an ongoing index of project
 
 ## Projects Tree:
 
-- #### Artificial Intelligence / Machine Learning
+- #### AI / ML Ops
   - [Better Requests Chrome Extension](https://github.com/amirfounder/better-requests-chrome-extension)
   - [Better Requests HTTP Server](https://github.com/amirfounder/better-requests-http-server)
   - [Data Processing Services](https://github.com/amirfounder/data-processing-services)
+  - [DAOs](https://github.com/amirfounder/daos)
+  - [Dependency Injection](https://github.com/amirfounder/dependency-injection)
   - [Machine Learning Training Services](https://github.com/amirfounder/machine-learning-training-services)
   - [Machine Learning Prediction Services](https://github.com/amirfounder/machine-learning-prediction-services)
-  - [@amirfounder Commons](https://github.com/amirfounder/commons)
-  - [@amirfounder DAOs](https://github.com/amirfounder/daos)
-  - [@amirfounder Dependency Injection](https://github.com/amirfounder/dependency-injection)
 
-- #### Full-Stack Demos
+- #### Full-Stack
   - [Amir Apparel Demo API .NET](https://github.com/amirfounder/amir-apparel-demo-api-dotnet)
   - [Amir Apparel Demo API Flask](https://github.com/amirfounder/amir-apparel-demo-api-flask)
   - [Amir Apparel Demo API Spring Boot](https://github.com/amirfounder/amir-apparel-demo-api-spring-boot)
