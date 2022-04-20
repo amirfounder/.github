@@ -16,6 +16,7 @@ Amir Sharapov (@amirfounder) organization references an ongoing index of project
   - [Better Requests Chrome Extension](https://github.com/amirfounder/better-requests-chrome-extension)
   - [Better Requests HTTP Server](https://github.com/amirfounder/better-requests-http-server)
   - [Data Processing Services](https://github.com/amirfounder/data-processing-services)
+  - [Device Controller](https://github.com/amirfounder/device-controller)
   - [Machine Learning Training Services](https://github.com/amirfounder/machine-learning-training-services)
   - [Machine Learning Prediction Services](https://github.com/amirfounder/machine-learning-prediction-services)
 
