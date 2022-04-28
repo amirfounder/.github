@@ -9,13 +9,12 @@ Amir Sharapov (@amirfounder) organization references an ongoing index of project
 
 ## Projects Tree:
 
-- #### AI / ML Ops
-  - [Airflow](https://github.com/amirfounder/airflow)
-  - [DAOs](https://github.com/amirfounder/daos)
-  - [Data Services](https://github.com/amirfounder/data-services)
-  - [ML Services](https://github.com/amirfounder/ml-services)
-  - [Notebooks](https://github.com/amirfounder/notebooks)
-  - [Scraper](https://github.com/amirfounder/scraper)
+- #### AI / ML Studies
+  - [ML Studies Airflow](https://github.com/amirfounder/ml-studies-airflow)
+  - [ML Studies DAOs](https://github.com/amirfounder/ml-studies-daos)
+  - [ML Studies Services](https://github.com/amirfounder/ml-studies-services)
+  - [ML Studies Notebooks](https://github.com/amirfounder/ml-studies-notebooks)
+  - [ML Studies Scraper](https://github.com/amirfounder/ml-studies-scraper)
 
 - #### Full-Stack
   - [Amir Apparel Demo API .NET](https://github.com/amirfounder/amir-apparel-demo-api-dotnet)
