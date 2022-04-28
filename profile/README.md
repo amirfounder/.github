@@ -9,7 +9,7 @@ Amir Sharapov (@amirfounder) organization references an ongoing index of project
 
 ## Projects Tree:
 
-- #### AI / ML Studies
+- #### ML Studies
   - [ML Studies Airflow](https://github.com/amirfounder/ml-studies-airflow)
   - [ML Studies DAOs](https://github.com/amirfounder/ml-studies-daos)
   - [ML Studies Services](https://github.com/amirfounder/ml-studies-services)
