@@ -10,15 +10,12 @@ Amir Sharapov (@amirfounder) organization references an ongoing index of project
 ## Projects Tree:
 
 - #### AI / ML Ops
-  - [(Library) Base HTTP Server](https://github.com/amirfounder/http-server)
-  - [(Library) DAOs](https://github.com/amirfounder/daos)
-  - [(Library) Dependency Injection](https://github.com/amirfounder/dependency-injection)
-  - [Better Requests Chrome Extension](https://github.com/amirfounder/better-requests-chrome-extension)
-  - [Better Requests HTTP Server](https://github.com/amirfounder/better-requests-http-server)
-  - [Data Processing Services](https://github.com/amirfounder/data-processing-services)
-  - [Device Controller](https://github.com/amirfounder/device-controller)
-  - [Machine Learning Training Services](https://github.com/amirfounder/machine-learning-training-services)
-  - [Machine Learning Prediction Services](https://github.com/amirfounder/machine-learning-prediction-services)
+  - [Airflow](https://github.com/amirfounder/airflow)
+  - [DAOs](https://github.com/amirfounder/daos)
+  - [Data Services](https://github.com/amirfounder/data-services)
+  - [ML Services](https://github.com/amirfounder/ml-services)
+  - [Notebooks](https://github.com/amirfounder/notebooks)
+  - [Scraper](https://github.com/amirfounder/scraper)
 
 - #### Full-Stack
   - [Amir Apparel Demo API .NET](https://github.com/amirfounder/amir-apparel-demo-api-dotnet)
@@ -50,6 +47,11 @@ Amir Sharapov (@amirfounder) organization references an ongoing index of project
     [v3](https://github.com/amirfounder/lotro-bot-v3) |
     [v4](https://github.com/amirfounder/lotro-bot-v4)
     )
+  - [Base HTTP Server](https://github.com/amirfounder/http-server)
+  - [Better Requests Chrome Extension](https://github.com/amirfounder/better-requests-chrome-extension)
+  - [Better Requests HTTP Server](https://github.com/amirfounder/better-requests-http-server)
+  - [Dependency Injection](https://github.com/amirfounder/dependency-injection)
+  - [Device Controller](https://github.com/amirfounder/device-controller)
   - [Math Problems API](https://github.com/amirfounder/math-problems-api)
   - [Project Directory Builder](https://github.com/amirfounder/project-directory-builder)
   - [Project Manager UI](https://github.com/amirfounder/project-manager-ui)
