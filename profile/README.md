@@ -12,9 +12,9 @@ Amir Sharapov (@amirfounder) organization references an ongoing index of project
 - #### ML Studies
   - [ML Studies Compute Container](https://github.com/amirfounder/ml-studies-compute-container)
   - [ML Studies DAOs](https://github.com/amirfounder/ml-studies-daos)
+  - [ML Studies Scraper](https://github.com/amirfounder/ml-studies-scraper)
   - [ML Studies Services](https://github.com/amirfounder/ml-studies-services)
   - [ML Studies Notebooks](https://github.com/amirfounder/ml-studies-notebooks)
-  - [ML Studies Scraper](https://github.com/amirfounder/ml-studies-scraper)
 
 - #### Full-Stack
   - [Amir Apparel Demo API .NET](https://github.com/amirfounder/amir-apparel-demo-api-dotnet)
