@@ -9,16 +9,21 @@ Amir Sharapov (@amirfounder) organization references an ongoing index of project
 
 ## Projects Tree:
 
-- #### ML Studies (Ongoing)
-  - [Ml Studies V3](https://github.com/amirfounder/ml-studies-v3)
-
-- #### ML Studies (V2)
-  - [ML Studies Commons](https://github.com/amirfounder/ml-studies-commons)
-  - [ML Studies Compute Container](https://github.com/amirfounder/ml-studies-compute-container)
-  - [ML Studies DAOs](https://github.com/amirfounder/ml-studies-daos)
-  - [ML Studies Scraper](https://github.com/amirfounder/ml-studies-scraper)
-  - [ML Studies Services](https://github.com/amirfounder/ml-studies-services)
-  - [ML Studies Notebooks](https://github.com/amirfounder/ml-studies-notebooks)
+- #### ML
+  - Voice Recognition Mouse (Coming soon...)
+  - Voice Recognition Keyboard (Coming soon...)
+  - [ML Studies V3](https://github.com/amirfounder/ml-studies-v3)
+  - ML Studies V2 (
+    [Commons](https://github.com/amirfounder/ml-studies-commons) |
+    [Compute Container](https://github.com/amirfounder/ml-studies-compute-container) |
+    [DAOs](https://github.com/amirfounder/ml-studies-daos) |
+    [Scraper](https://github.com/amirfounder/ml-studies-scraper) |
+    [Services](https://github.com/amirfounder/ml-studies-services) |
+    [Notebooks](https://github.com/amirfounder/ml-studies-notebooks)
+  )
+ 
+- #### Commons
+  - [Python Commons](https://github.com/amirfounder/commons)
 
 - #### Full-Stack
   - [Amir Apparel Demo API .NET](https://github.com/amirfounder/amir-apparel-demo-api-dotnet)
@@ -37,12 +42,18 @@ Amir Sharapov (@amirfounder) organization references an ongoing index of project
     [v3](https://github.com/amirfounder/amirfounder-ui-v3) |
     [v4](https://github.com/amirfounder/amirfounder-ui-v4)
     )
+  - [DS & Algorithms](https://github.com/amirfounder/ds-algos)
   - Instagram Bot (
     [v1](https://github.com/amirfounder/instagram-bot-v1) |
     [v2](https://github.com/amirfounder/instagram-bot-v2)
     )
   - Instagram Username Builder (
     [v1](https://github.com/amirfounder/instagram-username-builder-v1)
+    )
+  - LinkedIn Job Search Assistant (
+    [v1](https://github.com/amirfounder/linkedin-job-search-assistant-v1) |
+    [v2](https://github.com/amirfounder/linkedin-job-search-assistant-v2) |
+    [Extension](https://github.com/amirfounder/linked-job-search-assistant-extension)
     )
   - Lotro Bot (
     [v1](https://github.com/amirfounder/lotro-bot-v1) |
