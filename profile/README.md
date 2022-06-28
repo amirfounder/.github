@@ -2,12 +2,14 @@
 
 Amir Sharapov (@amirfounder) organization references an ongoing index of projects.
 
-## Contents
+## Table of Contents
 
-- [Projects Tree](#projects-tree)
-- [Technology Index](#technology-index)
+- [ML](#ml)
+- [Commons](#commons)
+- [Full-Stack](#full-stack)
+- [Archived](#archived)
 
-## Projects Tree:
+## Projects:
 
 - #### ML
   - Voice Recognition Mouse (Coming soon...)
@@ -40,7 +42,8 @@ Amir Sharapov (@amirfounder) organization references an ongoing index of project
     [v1](https://github.com/amirfounder/amirfounder-ui-v1) |
     [v2](https://github.com/amirfounder/amirfounder-ui-v2) |
     [v3](https://github.com/amirfounder/amirfounder-ui-v3) |
-    [v4](https://github.com/amirfounder/amirfounder-ui-v4)
+    [v4](https://github.com/amirfounder/amirfounder-ui-v4) | 
+    [v5](https://github.com/amirfounder/amirfounder-ui)
     )
   - [DS & Algorithms](https://github.com/amirfounder/ds-algos)
   - Instagram Bot (
@@ -75,33 +78,3 @@ Amir Sharapov (@amirfounder) organization references an ongoing index of project
 
 - #### Other
   - [.github](https://github.com/amirfounder/.github)
-
-## Technology Index
-
-- #### Languages
-  - C#
-  - CSS
-  - HTML
-  - Java
-  - Javascript 
-  - Python
-  - PostgreSQL
-
-- #### Frameworks / Platforms
-  - ASP.NET
-  - AWS
-  - Entity Framework
-  - Flask
-  - Git
-  - Hibernate
-  - OpenCV
-  - React
-  - Spring Boot
-  - SQLAlchemy
-
-- #### CS Concepts
-  - Big O Notation
-  - DRY Code
-  - Design Patterns
-  - SOLID Principles
-  - IoC
