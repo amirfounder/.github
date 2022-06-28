@@ -1,6 +1,6 @@
 # Amir Sharapov
 
-Amir Sharapov (@amirfounder) organization references an ongoing index of projects for recruiters.
+Amir Sharapov (@amirfounder) organization references an ongoing index of projects.
 
 ## Contents
 
