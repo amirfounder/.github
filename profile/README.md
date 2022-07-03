@@ -29,7 +29,7 @@ Amir Sharapov (@amirfounder) organization references an ongoing index of project
 
 - #### Full-Stack
   - [Amir Apparel Demo API .NET](https://github.com/amirfounder/amir-apparel-demo-api-dotnet)
-  - [Amir Apparel Demo API Flask](https://github.com/amirfounder/amir-apparel-demo-api-flask)
+  - [Amir Apparel Demo API Flask (Incomplete)](https://github.com/amirfounder/amir-apparel-demo-api-flask) 
   - [Amir Apparel Demo API Spring Boot](https://github.com/amirfounder/amir-apparel-demo-api-spring-boot)
   - [Amir Apparel Demo UI React](https://github.com/amirfounder/amir-apparel-demo-ui-react)
 
